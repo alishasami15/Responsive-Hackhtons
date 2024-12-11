@@ -8,7 +8,7 @@ import React from 'react'
 const page = () => {
   return (
     // Top Header
-    <div className="flex flex-col mt-[25px] md sm lg mx-auto">
+    <div className="flex flex-col mt-[25px] md sm lg mx-auto relative">
         <div className="bg-[#000000] w-[1330px] h-[40px] mt-[15px]  gap-[120px] flex flex-col md">
         <p className="  font-satoshi text-sm  pt-[9px] pl-[400px] text-[#FFFFFF] font-normal">Sign up and get 20% off to your first order. <span className="font-satoshi text-[#FFFFFF] text-sm font-400 underline ">Sign Up Now</span></p>
         </div>

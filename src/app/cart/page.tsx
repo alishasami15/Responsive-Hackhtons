@@ -9,7 +9,7 @@ const page = () => {
   return (
     <div>
               {/* // Top Header */}
-        <div className="flex flex-col md sm lg mx-auto">
+        <div className="flex flex-col md sm lg mx-auto relative">
           
    
         <div className="bg-[#000000] w-[1330px] h-[40px] mt-4  gap-[120px] flex flex-col md">
