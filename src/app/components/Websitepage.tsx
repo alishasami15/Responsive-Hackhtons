@@ -9,12 +9,12 @@ const Websitepage = () => {
   return (
    
         // Top Header
-        <div className="flex flex-col md sm lg mx-auto relative">
+        <div className="flex flex-col md mx-auto relative">
           <div >
    
     </div>
-        <div className="bg-[#000000] w-[1330px] h-[40px] mt-4  gap-[120px] flex flex-col md">
-        <p className="  font-satoshi text-sm  pt-[9px] pl-[400px] text-[#FFFFFF] font-normal">Sign up and get 20% off to your first order. <span className="font-satoshi text-[#FFFFFF] text-sm font-400 underline ">Sign Up Now</span></p>
+        <div className=" bg-[#000000] w-[1330px] h-[40px] mt-4  gap-[120px] relative">
+        <p className="  font-satoshi text-sm  pt-[9px] pl-[400px] text-[#FFFFFF] font-normal ">Sign up and get 20% off to your first order. <span className="font-satoshi text-[#FFFFFF] text-sm font-400 underline cursor-pointer ">Sign Up Now</span></p>
         </div>
   {/* click routes */}
     <div className="relative">
@@ -40,26 +40,27 @@ const Websitepage = () => {
   </nav>
 </div>
 {/* Header */}
-   <div className="flex items-center justify-center">
-   <div className=" flex w-[1330px] h-[41px] gap-[40px] mt-[62px] ml-[50px] opacity-[0px] flex flex-wrap w-full px-4 py-4 md:px-8 lg:px-20 ">
-        <h1 className=" pt-[10px] w-[116px] h-[22px] text-[#000000] font-Integral CF font-bold font-[1000] text-2xl">SHOP.CO</h1>
+   <div className="flex items-center justify-center w-full px-4 md:px-8 lg:px-20 mt-[42px]">
+   <div className=" flex w-[1330px] h-[41px] gap-[40px] mt-[62px] ml-[50px] opacity-[0px] flex flex-wrap w-full mx-w-[1330px] ">
+        <h1 className=" pt-[10px] w-[116px] h-[22px] text-[#000000] font-integral font-bold font-[1000] text-2xl">SHOP.CO</h1>
 
-<ul className=" flex w-[321px] h-[22px] gap-[24px] pl-[40px] pt-[10px] text-[#000000]">
+<ul className=" flex flex-wrap w-[351px] h-[22px] gap-[24px] pl-[40px] pt-[10px] text-[#000000]">
  <li className="w-[37px] h-[22px] text-base font-satoshi text-normal ">Shop</li>
  <li  className="w-[56px] h-[22px] text-base font-satoshi text-normal  ">OnSale</li>
  <li className="w-[87px] h-[22px] text-base font-satoshi text-normal  ">NewArrivals</li>
  <li className="w-[49px] h-[22px] text-base font-satoshi text-normal ">Brands</li>
 </ul>
-<div className="flex w-[500px] h-[41px] pt-[12px] pr-[16px] pb-[12px] pl-[16px] gap-[12px] rounded-[62px] opacity-[40px] bg-[#F0F0F0]">
+{/* search bar */}
+<div className="flex w-[500px] h-[41px] pt-[12px] pr-[16px] pb-[12px] pl-[16px] gap-[12px] rounded-[62px] opacity-[40px] bg-[#F0F0F0] md:w-auto">
 <IoIosSearch className=" w-[24px] h-[24px]"/>  <input placeholder="Search for products...." className="w-[151px] h-[22px] text-base font-satoshi font-normal text-[#00000066] opacity-[40px]"/>
    </div>
-<BsCart3 className=" w-[24px] h-[24px]" />
-<FaRegUserCircle className="w-[24px] h-[24px]"/>
+<BsCart3 className=" w-[24px] h-[24px] cursor-pointer" />
+<FaRegUserCircle className="w-[24px] h-[24px] cursor-pointer"/>
         </div> 
    </div>
  
 {/* Hero section */}
-  <div className="mt-[50px] bg-[#F2F0F1] w-[1330px] h-[663px] flex flex-col items-start relative ">
+  <div className="mt-[50px] bg-[#F2F0F1] w-[1330px] h-[663px] flex flex-col items-start relative sm-w-[100px] ">
  {/* Heading */}
  <h1 className="font-Integral CF text-[#000000] w-[577px] h-[173px] pt-[100px] pl-[100px] text-[64px] font-bold leading-[64px] text-left">
    FIND CLOTHES THAT MATCH YOUR STYLE
@@ -76,7 +77,7 @@ const Websitepage = () => {
    alt="img"
    width={1330} // Adjust the width
    height={600} // Adjust the height
-   className="absolute right-0 bottom-0 object-contain "
+   className="absolute right-0 bottom-0 object-contain flex flex-col pl-0"
        />
  <div className="absolute left-0 bottom-60  text-[white] w-[210px] h-[52px] mt-[507px] ml-[100px] pb-[16px] pr-[54px] pt-[16px] pl-[34px] gap-[75px] rounded-[62px] bg-[#000000]">
  Shop Now
