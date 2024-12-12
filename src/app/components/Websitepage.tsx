@@ -355,7 +355,7 @@ const Websitepage = () => {
    className="pl-[22px] pt-[10px]"
  />
 
-   <p className="pl-[22px] pt-[10px]">"I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations.”</p>
+   <p className="pl-[22px] pt-[10px]">I m blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I ve bought has exceeded my expectations.</p>
   </div>
   <div className="w-[400px] h-[340px] mt-[100px] ml-[100px] pt[28px] pl-[32px] pt-[28px] pr-[32px] gap-[342px] rounded-[20px] border-[1px]">
   <Image
@@ -373,7 +373,7 @@ const Websitepage = () => {
    className="pl-[22px] pt-[10px]"
  />
 
-   <p className="pl-[22px] pt-[10px]">"I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations.”</p>
+   <p className="pl-[22px] pt-[10px]">I m blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I ve bought has exceeded my expectations.</p>
   </div>
   <div className="w-[400px] h-[340px] mt-[100px] ml-[100px] pt[28px] pl-[32px] pt-[28px] pr-[32px] gap-[342px] rounded-[20px] border-[1px]">
   <Image
@@ -391,7 +391,7 @@ const Websitepage = () => {
    className="pl-[22px] pt-[10px]"
  />
 
-   <p className="pl-[22px] pt-[10px]">"I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations.”</p>
+   <p className="pl-[22px] pt-[10px]">I m blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I ve bought has exceeded my expectations.</p>
   </div>
  </div>
  {/* Nanbar */}

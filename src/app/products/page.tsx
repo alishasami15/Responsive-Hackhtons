@@ -157,7 +157,7 @@ className="absolute left-266 hover hover:border-[10px] opacity-[40px]"
    className="pl-[22px] pt-[10px] gap-[4px]"
  />
 
-   <p className="pl-[22px] pt-[10px]">I absolutely love this t-shirt! The design is unique and the fabric feels so comfortable. As a fellow designer, I appreciate the attention to detail. It's become my favorite go-to shirt.</p>
+   <p className="pl-[22px] pt-[10px]">I absolutely love this t-shirt! The design is unique and the fabric feels so comfortable. As a fellow designer, I appreciate the attention to detail. Its become my favorite go-to shirt.</p>
    <p className="text-[#00000099] pl-[22px] pt-[10px]">Posted on August 15, 2023</p>
   </div>
   
@@ -177,7 +177,7 @@ className="absolute left-266 hover hover:border-[10px] opacity-[40px]"
    className="pl-[22px] pt-[10px] gap-[4px]"
  />
 
-   <p className="pl-[22px] pt-[10px]">"The t-shirt exceeded my expectations! The colors are vibrant and the print quality is top-notch. Being a UI/UX designer myself, I'm quite picky about aesthetics, and this t-shirt definitely gets a thumbs up from me."</p>
+   <p className="pl-[22px] pt-[10px]">The t-shirt exceeded my expectations! The colors are vibrant and the print quality is top-notch. Being a UI/UX designer myself, I m quite picky about aesthetics, and this t-shirt definitely gets a thumbs up from me.</p>
    <p className="text-[#00000099] pl-[22px] pt-[10px]">Posted on August 20, 2024</p>
   </div>
  
@@ -200,7 +200,7 @@ className="absolute left-266 hover hover:border-[10px] opacity-[40px]"
    className="pl-[22px] pt-[10px] gap-[4px]"
  />
 
-   <p className="pl-[22px] pt-[10px]">"This t-shirt is a fusion of comfort and creativity. The fabric is soft, and the design speaks volumes about the designer's skill. It's like wearing a piece of art that reflects my passion for both design and fashion."</p>
+   <p className="pl-[22px] pt-[10px]">This t-shirt is a fusion of comfort and creativity. The fabric is soft, and the design speaks volumes about the designer s skill. It s like wearing a piece of art that reflects my passion for both design and fashion.</p>
    <p className="text-[#00000099] pl-[22px] pt-[10px]">Posted on August 19, 2024</p>
   </div>
   <div className="mt-[50px] ml-[40px] border-[1px] w-[610px] h-[241.58px] p-[28px 32px 28px 32px] gap-[10px] rounded-[20px]">
@@ -219,7 +219,7 @@ className="absolute left-266 hover hover:border-[10px] opacity-[40px]"
    className="pl-[22px] pt-[10px] gap-[4px]"
  />
 
-   <p className="pl-[22px] pt-[10px]">"The t-shirt exceeded my expectations! The colors are vibrant and the print quality is top-notch. Being a UI/UX designer myself, I'm quite picky about aesthetics, and this t-shirt definitely gets a thumbs up from me."</p>
+   <p className="pl-[22px] pt-[10px]">The t-shirt exceeded my expectations! The colors are vibrant and the print quality is top-notch. Being a UI/UX designer myself, I m quite picky about aesthetics, and this t-shirt definitely gets a thumbs up from me.</p>
    <p className="text-[#00000099] pl-[22px] pt-[10px]">Posted on August 19, 2023</p>
   </div>
  
@@ -242,7 +242,7 @@ className="absolute left-266 hover hover:border-[10px] opacity-[40px]"
    className="pl-[22px] pt-[10px] gap-[4px]"
  />
 
-   <p className="pl-[22px] pt-[10px]">I absolutely love this t-shirt! The design is unique and the fabric feels so comfortable. As a fellow designer, I appreciate the attention to detail. It's become my favorite go-to shirt.</p>
+   <p className="pl-[22px] pt-[10px]">I absolutely love this t-shirt! The design is unique and the fabric feels so comfortable. As a fellow designer, I appreciate the attention to detail. It s become my favorite go-to shirt.</p>
    <p className="text-[#00000099] pl-[22px] pt-[10px]">Posted on August 25, 2024</p>
 </div>
   <div className="mt-[50px] ml-[40px] border-[1px] w-[610px] h-[241.58px] p-[28px 32px 28px 32px] gap-[10px] rounded-[20px]">
@@ -261,7 +261,7 @@ className="absolute left-266 hover hover:border-[10px] opacity-[40px]"
    className="pl-[22px] pt-[10px] gap-[4px]"
  />
 
-   <p className="pl-[22px] pt-[10px]">"The t-shirt exceeded my expectations! The colors are vibrant and the print quality is top-notch. Being a UI/UX designer myself, I'm quite picky about aesthetics, and this t-shirt definitely gets a thumbs up from me."</p>
+   <p className="pl-[22px] pt-[10px]">The t-shirt exceeded my expectations! The colors are vibrant and the print quality is top-notch. Being a UI/UX designer myself, I m quite picky about aesthetics, and this t-shirt definitely gets a thumbs up from me.</p>
    <p className="text-[#00000099] pl-[22px] pt-[10px]">Posted on August 19, 2023</p>
   </div>
  
